@@ -473,7 +473,7 @@ const PaymentGatewayPage = () => {
           </h1>
 
           {/* Icons */}
-          <div className="flex items-center gap-4 mt-1 text-sm opacity-90 flex-wrap">
+          <div className="flex items-center  gap-4 mt-1 text-sm opacity-90 flex-wrap">
             <span className="flex items-center gap-1">⭐⭐⭐⭐⭐</span>
             <span className="flex items-center gap-1"><AiOutlineDownload /> 6352 times</span>
             <span className="flex items-center gap-1"><IoMdNotificationsOutline /> v3.0.0</span>
