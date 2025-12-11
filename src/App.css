@@ -1,0 +1,4 @@
+/* Remove global horizontal scroll */
+html, body {
+  overflow-x: hidden !important;
+}
